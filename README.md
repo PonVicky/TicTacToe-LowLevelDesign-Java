@@ -42,22 +42,22 @@ This repository contains a simple **Tic Tac Toe** game implemented in Java, show
 🎨 Demo
 Here’s a sneak peek of the game in action:
 
-                                                          --------------------------------------------------------
-                                                          --               WelCome to Tic-Tac-Toe               --
-                                                          --------------------------------------------------------
-                                                          
-                                                          Enter Player1 name: vicky
-                                                          Enter Player2 name: raja
-                                                          - - -
-                                                          - - -
-                                                          - - -
-                                                          vicky enter your position(1-9): 
-                                                          5
-                                                          - - -
-                                                          - X -
-                                                          - - -
-                                                          raja enter your position(1-9): 
-                                                          2
-                                                          - - O
-                                                          - X -
-                                                          - - -
+                                            --------------------------------------------------------
+                                            --               WelCome to Tic-Tac-Toe               --
+                                            --------------------------------------------------------
+                                            
+                                            Enter Player1 name: vicky
+                                            Enter Player2 name: raja
+                                            - - -
+                                            - - -
+                                            - - -
+                                            vicky enter your position(1-9): 
+                                            5
+                                            - - -
+                                            - X -
+                                            - - -
+                                            raja enter your position(1-9): 
+                                            2
+                                            - - O
+                                            - X -
+                                            - - -
