@@ -29,3 +29,34 @@ This repository contains a simple **Tic Tac Toe** game implemented in Java, show
 2. **Player**: Encapsulates player details (e.g., name, symbol).
 3. **Main**: Manages the game logic, including turn rotation and win/draw conditions.
 4. **Winning**: Validates player inputs for winning positions.
+
+---
+
+🖥️ How to Play
+1.Players alternate turns to place their symbol (X or O) on the board.
+2.The first player to align their symbols horizontally, vertically, or diagonally wins.
+3.If the board is full and no player has won, the game ends in a draw.
+
+---
+
+🎨 Demo
+Here’s a sneak peek of the game in action:
+                                                          --------------------------------------------------------
+                                                          --               WelCome to Tic-Tac-Toe               --
+                                                          --------------------------------------------------------
+                                                          
+                                                          Enter Player1 name: vicky
+                                                          Enter Player2 name: raja
+                                                          - - -
+                                                          - - -
+                                                          - - -
+                                                          vicky enter your position(1-9): 
+                                                          5
+                                                          - - -
+                                                          - X -
+                                                          - - -
+                                                          raja enter your position(1-9): 
+                                                          2
+                                                          - - O
+                                                          - X -
+                                                          - - -
